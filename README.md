@@ -1,2 +1,4 @@
-# Web-Calculator-V2.0
-A modern, web-based calculator built with HTML, CSS, and JavaScript. Supports arithmetic operations, parentheses, and trigonometric functions in degrees. Fully usable via mouse clicks or keyboard input, with automatic floating-point correction and scientific notation for very small numbers.
+This is a repo that contains a Web Calculator
+download the folder and files and run the HTML document using LiveServer extension in VScode <- this is so you can run the calculator on your local machine.
+
+Okay Cool!
